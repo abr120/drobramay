@@ -1,0 +1,21 @@
+[
+ {
+     "title":"دروب ريمي",
+    "provider":"wordpress",
+    "image":"https://raw.githubusercontent.com/abr120/drobramay/master/20.jpg",
+    "arguments":[
+      "yoodkkaa.wordpress.com",
+      "remidorob"
+    ]
+  },
+  
+      {
+    "title":"سندريلا",
+    "provider":"wordpress",
+    "image":"https://raw.githubusercontent.com/abr120/drobramay/master/84.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "sanderela"
+    ]
+  }
+]
